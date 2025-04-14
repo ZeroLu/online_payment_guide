@@ -1,5 +1,3 @@
-https://mp.weixin.qq.com/s/W9DyoJtQ1Y2BN__mj272iQ
-
 对于出海小白来说，出海支付绝对是一个拦路虎，尤其是现在各个平台对于大陆身份都或多或少有些歧视和限制！
 我也是走了很多弯路、尝试各种方式（LemonSqueezy、Antom等）都没有结果后，我最终还是下定决心注册了美国公司，并在一周内成功开通了美国Stripe！
 为了让后续的航海家们不要跟我一样走弯路，我耗费了超过12个小时，整理了详细的教程，并且将录屏上传到了B站。
@@ -122,6 +120,43 @@ B站视频链接：https://www.bilibili.com/video/BV1EvHQe4E6S/?share_source=cop
 国家地区选择我们公司的所在地（美国），把其他信息填好后，点击创建，然后网站会验证我们的邮箱，进入我们的邮箱点击邮件中的网址，然后重新登录。
 
 ![image](https://github.com/user-attachments/assets/40ae359b-72f1-4192-9e64-ea69694d5322)
+
+我们会看到此时已经进入测试模式，我们点击右上方的填写资料：
+
+![image](https://github.com/user-attachments/assets/2a6ed479-1dd7-487f-9767-28f34d0849b6)
+
+![image](https://github.com/user-attachments/assets/0caafabe-b4f1-445f-b6ca-d27561735c8b)
+
+把商家信息根据注册时的填好，注意公司详细中的EIN和公司地址，将淘宝客服提供的填入就好，
+
+然后我们进入公司代表界面，这里的电话号码，我们选择中国的就好，
+
+![image](https://github.com/user-attachments/assets/3b88cd23-b7dc-4613-a5a7-e20691b8571c)
+
+这里下面会有一个社会保障号码的后四位，我们不用管它，直接点击改为提供政府签发的ID号码，在上面选择CN，之后填入你的护照号即可，
+
+![image](https://github.com/user-attachments/assets/7470bdd4-d72e-46d6-87cf-a3078a251239)
+
+后面可能要求扫描你的护照号，这里建议用手机端操作。切记一定要魔法上网！否则可能扫描功能无法正常使用！
+
+![image](https://github.com/user-attachments/assets/1d0f50f3-e7fa-41b1-9131-d0d09dbd238d)
+
+然后到添加银行账户界面，选择改为手动输入，把注册好的虚拟卡信息填入就OK了，
+
+之后的信息按照要求填入，审核就OK了。
+
+在进行护照身份验证时，我的身份验证器老是加载不出来（如图），换了VPN马上就通过了，所以大家要注意网络环境！
+
+![image](https://github.com/user-attachments/assets/cb0a482e-1e66-4191-b0d9-61c7db87142b)
+
+大家如果实在遇到问题，可以直接找Stripe Support 询问，回复速度很快，机器审核不过的会帮你人工审核。
+
+大家也可以观看我的视频了解更详细的操作过程（https://www.bilibili.com/video/BV1EvHQe4E6S/  https://youtu.be/YhuhLbmQ0H0）
+
+如果大家还遇到障碍，可以添加我的微信咨询(收费：200元包通过，不通过退款)：
+
+![image](https://github.com/user-attachments/assets/0a48f58f-7ea4-4dbc-ac76-6ace8b3da938)
+
 
 
 
