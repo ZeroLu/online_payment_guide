@@ -1,7 +1,11 @@
+https://mp.weixin.qq.com/s/W9DyoJtQ1Y2BN__mj272iQ
+
 对于出海小白来说，出海支付绝对是一个拦路虎，尤其是现在各个平台对于大陆身份都或多或少有些歧视和限制！
 我也是走了很多弯路、尝试各种方式（LemonSqueezy、Antom等）都没有结果后，我最终还是下定决心注册了美国公司，并在一周内成功开通了美国Stripe！
 为了让后续的航海家们不要跟我一样走弯路，我耗费了超过12个小时，整理了详细的教程，并且将录屏上传到了B站。
+
 B站视频：https://www.bilibili.com/video/BV1EvHQe4E6S/?vd_source=0dd37d2a0b49190329bdd3c8ca8b9d06
+
 Youtube视频：https://youtu.be/YhuhLbmQ0H0
 
 在本教程里，你将了解：
