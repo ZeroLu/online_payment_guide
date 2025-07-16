@@ -40,7 +40,7 @@
 
 | 服务商 | 状态 | 核心优势 | 指南链接 |
 | :--- | :--- | :--- | :--- |
-| **Bingocard** | ✅ **推荐** | **Wildcard完美替代品，支持支付宝** | [**➡️ 查看详细评测与开卡教程**](https://github.com/ZeroLu/online_payment_guide/blob/main/%E9%87%8E%E5%8D%A1wildcard%E8%A2%AB%E5%B0%81%EF%BC%8C%E6%9B%BF%E4%BB%A3%E5%93%81BinGoCard%E7%9A%84%E8%AF%A6%E7%BB%86%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%8F%AF%E5%BC%80%E9%80%9AChatGPT%20Plus%E7%AD%89%EF%BC%89.md) |
+| **Bingocard** | ✅ **推荐** | **Wildcard完美替代品，支持支付宝** | [**➡️ 查看详细评测与开卡教程**](https://github.com/ZeroLu/online_payment_guide/blob/main/%E9%87%8E%E5%8D%A1wildcard%E8%B7%91%E8%B7%AF%EF%BC%8C%E6%9B%BF%E4%BB%A3%E5%93%81BinGoCard%E7%9A%84%E8%AF%A6%E7%BB%86%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%8F%AF%E5%BC%80%E9%80%9AChatGPT%20Plus%E7%AD%89%EF%BC%89.md) |
 | Wildcard | ❌ **已失效** | (历史) 曾是热门选择 | _(指南已归档)_ |
 | Wise | ⚠️ 谨慎选择 | 适合大额转账，不适合快速订阅 | _(待更新)_ |
 | PokePay | ⚠️ 门槛较高 | 需使用加密货币 | _(待更新)_ |
